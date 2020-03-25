@@ -1,0 +1,2 @@
+rootProject.name='SQLDemo'
+include ':app'
